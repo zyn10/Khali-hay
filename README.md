@@ -1,6 +1,4 @@
-#lists practice in csharp
-
-List Class
+<h1>List Class</h1>
 
 List class represents the list of objects which can be accessed by
 index.
